@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "plugintool",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:canius/PluginTool.git",
+      "state" : {
+        "revision" : "fa3f890cbf26c095fd2a358b3c89b849f7bc4380",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
